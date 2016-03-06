@@ -1,0 +1,21 @@
+{
+  "name": "react_initialize",
+  "version": "1.0.0",
+  "description": "init react project",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^0.14.7",
+    "react-router": "^2.0.0"
+  },
+  "devDependencies": {
+    "webpack": "^1.12.13"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "afshin akhgar",
+  "license": "MIT"
+}
